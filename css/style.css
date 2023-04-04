@@ -60,6 +60,8 @@ body{
     align-items: center;
 }
 
+
+
 /*.lien{
     text-decoration: none;
     display: flex;
@@ -105,6 +107,7 @@ p{
 
 }
 
+
 .navigation .lien.active{
     font-weight: bold;
     border-bottom: 2px solid #fff;
@@ -131,7 +134,15 @@ p{
 
 .section.learn .bloc-item{
     width: 50%;
+}  
+
+.container img{
+    width: 80px;
+    margin: 10;
+    border-radius: 70px;
 }
+   
+
 
 footer{
     background-color: #0f2243;
